@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/image_main.xml" value="0.15208333333333332" />
+        <entry key="app/src/main/res/drawable/main_image.xml" value="0.15208333333333332" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/developer_list_item.xml" value="0.22592592592592592" />
+        <entry key="app/src/main/res/layout/fragment_about.xml" value="0.2675438596491228" />
+        <entry key="app/src/main/res/layout/fragment_good_mood_list1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_no__mood_.xml" value="0.55" />
+        <entry key="app/src/main/res/layout/fragment_no_mood.xml" value="0.19739583333333333" />
+        <entry key="app/src/main/res/layout/fragment_no_mood_.xml" value="0.15552178318135765" />
+        <entry key="app/src/main/res/layout/fragment_nomood.xml" value="0.15552178318135765" />
+        <entry key="app/src/main/res/layout/fragment_yes__mood_.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment_yes__mood_2.xml" value="0.16077898550724637" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
