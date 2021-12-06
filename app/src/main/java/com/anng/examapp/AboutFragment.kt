@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.RecyclerView
 class AboutFragment : Fragment() {
 
     lateinit var developerRecyclerView: RecyclerView
-    val developerName: List<String> = listOf("Anna Gurova")
+    private val developerName: List<String> = listOf("Anna Gurova")
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
